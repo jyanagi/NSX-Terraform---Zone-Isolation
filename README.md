@@ -8,4 +8,4 @@
 <p> 1. Clone this GIT repository </p>
 <p> 2. Run the command "terraform init" </p>
 <p> 3. Run the command "terraform plan" </p>
-<p> 4. Run the command "terraform deploy -auto-approve </p>
+<p> 4. Run the command "terraform deploy -auto-approve" </p>
