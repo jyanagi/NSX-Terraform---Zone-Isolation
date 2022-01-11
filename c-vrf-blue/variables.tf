@@ -33,3 +33,7 @@ variable "edge_node_b" {
 variable "edge_cluster" {
   default = "Pod3-EC-03"
 }
+
+variable "parent_t0" {
+  default = ""
+}

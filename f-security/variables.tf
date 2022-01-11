@@ -33,3 +33,27 @@ variable "edge_node_b" {
 variable "edge_cluster" {
   default = "Pod3-EC-03"
 }
+
+variable "shared_t0" {
+  default = ""
+}
+
+variable "blue_t0" {
+  default = ""
+}
+
+variable "green_t0" {
+  default =""
+}
+
+variable "shared_t1" {
+  default = ""
+}
+
+variable "blue_t1" {
+  default = ""
+}
+
+variable "green_t1" {
+  default =""
+}
